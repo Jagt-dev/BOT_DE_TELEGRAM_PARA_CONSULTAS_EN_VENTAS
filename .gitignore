@@ -2,6 +2,6 @@
 /venv/
 
 #Archivos de base datos
-.csv
+*.csv
 
 
