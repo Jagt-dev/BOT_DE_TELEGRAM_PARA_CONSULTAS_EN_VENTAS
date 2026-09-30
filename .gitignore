@@ -1,0 +1,7 @@
+#carpeta virtual
+/venv/
+
+#Archivos de base datos
+.csv
+
+
